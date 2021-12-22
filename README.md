@@ -1,4 +1,5 @@
-# docx
+# docxptl
+
 Docxptl is a package used in Python to create 'n' automated reports/ documents from a document template.
 Creating automated reports from templates using docxptl libraries in Python
 
